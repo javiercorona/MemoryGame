@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="round_prefix">Round: %1$d</string>
+</resources>
